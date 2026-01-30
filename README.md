@@ -1,6 +1,6 @@
   ## About me
 
-<p align="left">Web dev student with a graphic design background.</p><br>
+<p align="left">Web dev student with a graphic design background.</p>
 
   ## Featured Projects
 
@@ -9,6 +9,8 @@
   - [CodeLingo](https://github.com/izandegeer/Codelingo-IntelliJ) — IntelliJ
   plugin that translates cryptic Java errors into plain, human-readable
   explanations. 🕹️
+
+##
 
 <div align=left>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="java" />
