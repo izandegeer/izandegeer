@@ -9,7 +9,6 @@
   - [CodeLingo](https://github.com/izandegeer/Codelingo-IntelliJ) — IntelliJ
   plugin that translates cryptic Java errors into plain, human-readable
   explanations. 🕹️
-
 ##
 
 <div align=left>
