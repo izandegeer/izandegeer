@@ -4,7 +4,7 @@
 
   ## Featured Projects
 
-- [FC Tools Hub](https://github.com/izandegeer/fctoolshub.com) — Career Mode companion app with 35K+ users: AI-generated challenges, player database & squad tools for EA Sports FC. ⚽
+- [FC Tools Hub](http://fctoolshub.com/?ref=wgxgraphics) — Career Mode companion app with 35K+ users: AI-generated challenges, player database & squad tools for EA Sports FC. ⚽
 
   ## Other Projects
 
