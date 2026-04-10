@@ -4,11 +4,16 @@
 
   ## Featured Projects
 
-  - [Ducky-CLI](https://github.com/izandegeer/Ducky-CLI) — Socratic debugging
+- [FC Tools Hub](https://github.com/izandegeer/fctoolshub.com) — Career Mode companion app with 35K+ users: AI-generated challenges, player database & squad tools for EA Sports FC. ⚽
+
+  ## Other Projects
+
+    - [Ducky-CLI](https://github.com/izandegeer/Ducky-CLI) — Socratic debugging
   MCP Server compatible with Gemini CLI, Claude Desktop & Claude Code. 🦆
   - [CodeLingo](https://github.com/izandegeer/Codelingo-IntelliJ) — IntelliJ
   plugin that translates cryptic Java errors into plain, human-readable
   explanations. 🕹️
+
 ##
 
 <div align=center>
