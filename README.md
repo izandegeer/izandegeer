@@ -8,7 +8,7 @@
 
   ## Other Projects
 
-    - [Ducky-CLI](https://github.com/izandegeer/Ducky-CLI) — Socratic debugging
+  - [Ducky-CLI](https://github.com/izandegeer/Ducky-CLI) — Socratic debugging
   MCP Server compatible with Gemini CLI, Claude Desktop & Claude Code. 🦆
   - [CodeLingo](https://github.com/izandegeer/Codelingo-IntelliJ) — IntelliJ
   plugin that translates cryptic Java errors into plain, human-readable
