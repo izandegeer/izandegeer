@@ -5,6 +5,8 @@
 ## Featured Projects
 
 - [FC Tools Hub](http://fctoolshub.com/?ref=wgxgraphics) — Career Mode companion app with 40K+ users: AI-generated challenges, player database & squad tools for EA Sports FC. ⚽
+- [Astrah](https://astrah.app) — Club-level football graphics in the browser: lineups, transfers, cards & rankings with a built-in catalog of clubs and players. Fill in, download, post. 🎨
+- [ElevenZZ](https://elevenzz.com) — Inazuma Eleven fan games: live your player's career, build your XI with real squads or guess the player of the day. 1,900+ players, no sign-up. ⚡
 
 ## Other Projects
 
