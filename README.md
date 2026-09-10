@@ -27,4 +27,4 @@
 <a href="https://www.linkedin.com/in/izandegeer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=izandegeer&theme=tokyo-night&custom_title=Contribution+graph&radius=16&height=350&days=30&area=true&hide_border=true&hide_title=false&grid=true" alt="activity graph"/></div>
+<div align="center"><img src="https://ghchart.rshah.org/izandegeer" alt="contribution graph"/></div>
