@@ -1,10 +1,16 @@
 ## About me
 
-<p align="left">Web dev student with a graphic design background.</p>
+Web Development student (DAW) with a background in graphic design and experience designing for digital projects with a large reach on social media.
+
+Currently going deeper into Java, SQL, HTML, CSS and JavaScript, while building my own products with AI for over six months. One of them, [FC Tools Hub](https://fctoolshub.com), is live with 55K+ users, which has taught me first-hand what it takes to build, ship and maintain a real product.
+
+My design background gives me a direct edge when it comes to building interfaces that are clear, functional and good-looking.
+
+I have one rule with AI: I use it, it doesn't use me. So far I'm winning. Let's see how long that lasts.
 
 ## Featured Projects
 
-- [FC Tools Hub](http://fctoolshub.com/?ref=wgxgraphics) — Career Mode companion app with 40K+ users: AI-generated challenges, player database & squad tools for EA Sports FC. ⚽
+- [FC Tools Hub](http://fctoolshub.com/?ref=wgxgraphics) — Career Mode companion app with 55K+ users: AI-generated challenges, player database & squad tools for EA Sports FC. ⚽
 - [Astrah](https://astrah.app) — Club-level football graphics in the browser: lineups, transfers, cards & rankings with a built-in catalog of clubs and players. Fill in, download, post. 🎨
 - [ElevenZZ](https://elevenzz.com) — Inazuma Eleven fan games: live your player's career, build your XI with real squads or guess the player of the day. 1,900+ players, no sign-up. ⚡
 
