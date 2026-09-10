@@ -2,7 +2,7 @@
 
 Web dev student (DAW) who came from graphic design. I spent years making visuals for football accounts with a big audience, and at some point I wanted to build the tools I was using instead of just the graphics.
 
-Learning Java, SQL, HTML, CSS and JavaScript at school. Outside of it I build my own products with AI: [FC Tools Hub](https://fctoolshub.com) is live with 55K+ users, and Astrah and ElevenZZ are the next ones.
+Learning Java, SQL, HTML, CSS and JavaScript at school. Outside of it I build my own products with AI: [FC Tools Hub](https://fctoolshub.com) is live with 55K+ users, and [Astrah](https://astrah.app) and [ElevenZZ](https://elevenzz.com) are the next ones.
 
 The design background shows in the work: I care about how things look and feel as much as whether they work.
 
