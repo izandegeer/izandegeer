@@ -1,12 +1,10 @@
 ## About me
 
-Web Development student (DAW) with a background in graphic design and experience designing for digital projects with a large reach on social media.
+Web dev student (DAW) who came from graphic design. I spent years making visuals for football accounts with a big audience, and at some point I wanted to build the tools I was using instead of just the graphics.
 
-Currently going deeper into Java, SQL, HTML, CSS and JavaScript, while building my own products with AI for over six months. One of them, [FC Tools Hub](https://fctoolshub.com), is live with 55K+ users, which has taught me first-hand what it takes to build, ship and maintain a real product.
+Learning Java, SQL, HTML, CSS and JavaScript at school. Outside of it I build my own products with AI: [FC Tools Hub](https://fctoolshub.com) is live with 55K+ users, and Astrah and ElevenZZ are the next ones.
 
-My design background gives me a direct edge when it comes to building interfaces that are clear, functional and good-looking.
-
-I have one rule with AI: I use it, it doesn't use me. So far I'm winning. Let's see how long that lasts.
+The design background shows in the work: I care about how things look and feel as much as whether they work.
 
 ## Featured Projects
 
