@@ -37,3 +37,5 @@ The design background shows in the work: I care about how things look and feel a
 <p align="left">
 <a href="https://www.linkedin.com/in/izandegeer/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="28" width="28" alt="LinkedIn" /></a>
 </p>
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=izandegeer&theme=tokyo-night&custom_title=Contribution+graph&radius=16&height=350&days=30&area=true&hide_border=true&hide_title=false&grid=true" alt="activity graph"/></div>
