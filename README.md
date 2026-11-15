@@ -37,5 +37,3 @@ The design background shows in the work: I care about how things look and feel a
 <p align="left">
 <a href="https://www.linkedin.com/in/izandegeer/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="28" width="28" alt="LinkedIn" /></a>
 </p>
-
-<div align="center"><img src="https://ghchart.rshah.org/7aa2f7/izandegeer" alt="contribution graph"/></div>
